@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+
 .App {
   text-align: center;
 }
@@ -40,5 +42,6 @@
 .Name {
   font-size: 5vmin;
   padding-top: 2vmin;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  /*font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif*/
+  font-family: 'Roboto Condensed', sans-serif;
 }
