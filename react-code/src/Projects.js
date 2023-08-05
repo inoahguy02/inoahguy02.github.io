@@ -3,7 +3,9 @@ import React from "react";
 function Projects() {
     return (
         <div>
-            <h1>This is the projects page</h1>
+            <main>
+                <h1>This is the projects page (In Progress)</h1>
+            </main>
         </div>
     );
 }
