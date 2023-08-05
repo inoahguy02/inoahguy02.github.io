@@ -44,3 +44,8 @@
   /*padding-top: 1vmin;*/
   font-family: 'Roboto Condensed', sans-serif;
 }
+
+.Link {
+  color: white;
+  text-decoration: none;
+}

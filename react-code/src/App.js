@@ -10,8 +10,8 @@ function App() {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <Link to="/"><h1 className="Name">Noah Garland</h1></Link>
-          <Link to="/projects">Projects</Link>
+          <Link to="/" className='Link'><h1 className="Name">Noah Garland</h1></Link>
+          <Link to="/projects" className='Link'>Projects</Link>
         </header>
 
         <main>
