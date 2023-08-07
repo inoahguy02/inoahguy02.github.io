@@ -41,11 +41,18 @@
 
 .Name {
   font-size: 5vmin;
-  /*padding-top: 1vmin;*/
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-.Link {
+.Link, .Name {
   color: white;
   text-decoration: none;
+}
+
+.Link {
+  padding-left: 50px;
+}
+
+.Nav-Links {
+  padding-left: 40vw;
 }
