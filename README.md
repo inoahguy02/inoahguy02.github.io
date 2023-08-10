@@ -1,3 +1,3 @@
 # Personal Website
 
-In developement. Using React.js
+Made using React.js
