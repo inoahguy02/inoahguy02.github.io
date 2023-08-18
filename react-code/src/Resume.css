@@ -1,12 +1,4 @@
-main {
-    padding-left: 23vw;
-}
-
 @media (max-width: 768px) {
-    main {
-        padding-left: 4vw;
-    }
-
     .ResumeJPG {
         width: 90vw;
     }
