@@ -45,6 +45,10 @@ body, html {
   }
 }
 
+a {
+  color: rgb(131, 131, 224);
+}
+
 .Name {
   font-size: 5vmin;
   font-family: 'Roboto Condensed', sans-serif;
