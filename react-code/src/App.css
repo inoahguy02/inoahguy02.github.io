@@ -55,20 +55,22 @@ body, html {
   text-decoration: none;
 }
 
-.Link {
+/*.Link {
   padding-left: 70px;
-}
+}*/
 
 .Nav-Links {
+  display: flex;
+  gap: 5vw;
   padding-left: 40vw;
 }
 
 @media (max-width: 768px) {
   .Nav-Links {
-    padding-left: 0;
+    padding-left: 10vw;
   }
 
-  .Link {
+  /*.Link {
     padding-left: 45px;
-  }
+  }*/
 }
